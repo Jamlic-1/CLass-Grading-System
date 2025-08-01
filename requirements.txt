@@ -1,0 +1,19 @@
+# requirements.txt for School Management System
+
+# Core language version
+python>=3.8
+
+# GUI
+tk  # Tkinter is bundled with Python, but listed here for clarity
+
+# Optional: for exporting data to Excel/PDF later
+openpyxl>=3.1.2      # for writing Excel files
+reportlab>=4.0.9     # for generating PDF report cards (future scope)
+
+# Optional: for advanced plotting/visualization in future upgrades
+matplotlib>=3.8.0
+
+
+
+#You can install these with:
+#pip install -r requirements.txt
